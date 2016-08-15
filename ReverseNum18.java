@@ -22,10 +22,10 @@ public class ReverseNum18 {
 		// Scanner 클래스로 input처리
 		Scanner sc = new Scanner(System.in);
 		
-		// 하나의 숫자 n 읽
+		// 하나의 숫자 n 읽기 
 		n = sc.nextInt();
 		// 자바에서는 읽는 것이 끝났다면, 바로 자원 해제하여 메모리 관리
-		// 이 코드가 없으면 경고 표시 나타
+		// 이 코드가 없으면 경고 표시 나타남 
 		sc.close();
 
 		// 숫자 뒷부분이 0으로 끝나는 경우 미리 0을 제외 
