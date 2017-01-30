@@ -49,9 +49,8 @@ public class App112 {
 			for (int j = 0; j<=15; j++)
 				System.out.print(dt[i][j]+" ");
 			System.out.println("");
-*/
 		}
-		
+*/		
 		return;
 	}
 
