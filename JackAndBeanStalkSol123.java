@@ -1,3 +1,6 @@
+// for more info
+// http://softwareeng.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98
+
 import java.util.Scanner;
 
 public class JackAndBeanStalkSol123 {
